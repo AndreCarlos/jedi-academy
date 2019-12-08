@@ -1,0 +1,6 @@
+
+*** iniciar a app angular ***
+ng serve
+
+*** gerando componente ***
+ng generate component header OR ng g c  header --spec=false
